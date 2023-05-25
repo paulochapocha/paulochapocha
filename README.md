@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @paulochapocha
+- 👀 I’m interested in education
+- 🌱 I’m currently learning cs50 and javascript
